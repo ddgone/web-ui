@@ -2,16 +2,16 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "case.web_demo.test_baidu1",
+    "name" : "case.web_demo.test_baidu",
     "children" : [ {
       "name" : "输入内容并搜索",
-      "uid" : "662d45d1f89de685",
-      "parentUid" : "d449d8adf440662fa1144dfcdd4397d2",
-      "status" : "failed",
+      "uid" : "ee6ea260e29696fd",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
       "time" : {
-        "start" : 1654832760384,
-        "stop" : 1654832764572,
-        "duration" : 4188
+        "start" : 1673889691823,
+        "stop" : 1673889696135,
+        "duration" : 4312
       },
       "flaky" : false,
       "newFailed" : false,
@@ -19,16 +19,16 @@
       "newBroken" : false,
       "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "('python', 'python', 'in')" ]
+      "parameters" : [ "('python',)" ]
     }, {
       "name" : "输入内容并搜索",
-      "uid" : "82f8a86eb936c970",
-      "parentUid" : "d449d8adf440662fa1144dfcdd4397d2",
-      "status" : "failed",
+      "uid" : "8dee12758a2d604",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
       "time" : {
-        "start" : 1654832769000,
-        "stop" : 1654832772961,
-        "duration" : 3961
+        "start" : 1673889699015,
+        "stop" : 1673889703268,
+        "duration" : 4253
       },
       "flaky" : false,
       "newFailed" : false,
@@ -36,8 +36,76 @@
       "newBroken" : false,
       "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "('C++', 'C++', 'in')" ]
+      "parameters" : [ "('java',)" ]
+    }, {
+      "name" : "输入内容并搜索",
+      "uid" : "f3ee6fdf06047114",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673889706483,
+        "stop" : 1673889710798,
+        "duration" : 4315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "('c++',)" ]
+    }, {
+      "name" : "输入内容并搜索",
+      "uid" : "f78ce06c8a2aa14b",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673889713948,
+        "stop" : 1673889718202,
+        "duration" : 4254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "('go',)" ]
+    }, {
+      "name" : "输入内容并搜索",
+      "uid" : "7dfab341940d29c",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673889721014,
+        "stop" : 1673889725191,
+        "duration" : 4177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "('shell',)" ]
+    }, {
+      "name" : "输入内容并搜索",
+      "uid" : "61d54d70c57b9ac",
+      "parentUid" : "f55e5bce63a4a643e0cd09f573e4579e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1673889728067,
+        "stop" : 1673889732384,
+        "duration" : 4317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "('c#',)" ]
     } ],
-    "uid" : "case.web_demo.test_baidu1"
+    "uid" : "case.web_demo.test_baidu"
   } ]
 }

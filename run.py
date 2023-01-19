@@ -209,7 +209,7 @@ class RunPytest:
         pytest.main(
             ['-m', 'testbaidu_web', '-n=1', '--reruns=0', '--alluredir', f'{PRPORE_JSON_DIR}', f'{CASE_DIR}'])
 
-        #生成测试报告
+        # 生成测试报告
         os.system(f'allure generate {PRPORE_JSON_DIR} -o {PRPORE_ALLURE_DIR} --clean')
         logger.info('测试报告生成完成！')
         #

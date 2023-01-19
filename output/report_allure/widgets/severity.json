@@ -1,21 +1,61 @@
 [ {
-  "uid" : "662d45d1f89de685",
+  "uid" : "f78ce06c8a2aa14b",
   "name" : "输入内容并搜索",
   "time" : {
-    "start" : 1654832760384,
-    "stop" : 1654832764572,
-    "duration" : 4188
+    "start" : 1673889713948,
+    "stop" : 1673889718202,
+    "duration" : 4254
   },
-  "status" : "failed",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "82f8a86eb936c970",
+  "uid" : "61d54d70c57b9ac",
   "name" : "输入内容并搜索",
   "time" : {
-    "start" : 1654832769000,
-    "stop" : 1654832772961,
-    "duration" : 3961
+    "start" : 1673889728067,
+    "stop" : 1673889732384,
+    "duration" : 4317
   },
-  "status" : "failed",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dfab341940d29c",
+  "name" : "输入内容并搜索",
+  "time" : {
+    "start" : 1673889721014,
+    "stop" : 1673889725191,
+    "duration" : 4177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee6ea260e29696fd",
+  "name" : "输入内容并搜索",
+  "time" : {
+    "start" : 1673889691823,
+    "stop" : 1673889696135,
+    "duration" : 4312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dee12758a2d604",
+  "name" : "输入内容并搜索",
+  "time" : {
+    "start" : 1673889699015,
+    "stop" : 1673889703268,
+    "duration" : 4253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3ee6fdf06047114",
+  "name" : "输入内容并搜索",
+  "time" : {
+    "start" : 1673889706483,
+    "stop" : 1673889710798,
+    "duration" : 4315
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

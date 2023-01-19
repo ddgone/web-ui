@@ -4,18 +4,18 @@
   "children" : [ {
     "name" : "case.web_demo",
     "children" : [ {
-      "name" : "test_baidu1",
+      "name" : "test_baidu",
       "children" : [ {
         "name" : "TestBaiDu",
         "children" : [ {
           "name" : "输入内容并搜索",
-          "uid" : "662d45d1f89de685",
-          "parentUid" : "1ab819524286dd16538470909d9d06cf",
-          "status" : "failed",
+          "uid" : "ee6ea260e29696fd",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
           "time" : {
-            "start" : 1654832760384,
-            "stop" : 1654832764572,
-            "duration" : 4188
+            "start" : 1673889691823,
+            "stop" : 1673889696135,
+            "duration" : 4312
           },
           "flaky" : false,
           "newFailed" : false,
@@ -23,16 +23,16 @@
           "newBroken" : false,
           "retriesCount" : 0,
           "retriesStatusChange" : false,
-          "parameters" : [ "('python', 'python', 'in')" ]
+          "parameters" : [ "('python',)" ]
         }, {
           "name" : "输入内容并搜索",
-          "uid" : "82f8a86eb936c970",
-          "parentUid" : "1ab819524286dd16538470909d9d06cf",
-          "status" : "failed",
+          "uid" : "8dee12758a2d604",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
           "time" : {
-            "start" : 1654832769000,
-            "stop" : 1654832772961,
-            "duration" : 3961
+            "start" : 1673889699015,
+            "stop" : 1673889703268,
+            "duration" : 4253
           },
           "flaky" : false,
           "newFailed" : false,
@@ -40,11 +40,79 @@
           "newBroken" : false,
           "retriesCount" : 0,
           "retriesStatusChange" : false,
-          "parameters" : [ "('C++', 'C++', 'in')" ]
+          "parameters" : [ "('java',)" ]
+        }, {
+          "name" : "输入内容并搜索",
+          "uid" : "f3ee6fdf06047114",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673889706483,
+            "stop" : 1673889710798,
+            "duration" : 4315
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "('c++',)" ]
+        }, {
+          "name" : "输入内容并搜索",
+          "uid" : "f78ce06c8a2aa14b",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673889713948,
+            "stop" : 1673889718202,
+            "duration" : 4254
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "('go',)" ]
+        }, {
+          "name" : "输入内容并搜索",
+          "uid" : "7dfab341940d29c",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673889721014,
+            "stop" : 1673889725191,
+            "duration" : 4177
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "('shell',)" ]
+        }, {
+          "name" : "输入内容并搜索",
+          "uid" : "61d54d70c57b9ac",
+          "parentUid" : "bd1f71b3f8687e5394ef23e76747992a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1673889728067,
+            "stop" : 1673889732384,
+            "duration" : 4317
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "('c#',)" ]
         } ],
-        "uid" : "1ab819524286dd16538470909d9d06cf"
+        "uid" : "bd1f71b3f8687e5394ef23e76747992a"
       } ],
-      "uid" : "f111931c322e85d2dc79bbe108c2cd1e"
+      "uid" : "3e0782003d0668361e2cfe19e6a541c8"
     } ],
     "uid" : "c67c09617ba79a2372c6af278a90599e"
   } ]
